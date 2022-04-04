@@ -28,4 +28,3 @@ function solution3(s) {
 }
 
 console.log(solution('StuDY'));
-console.log(solution2('StuDY'));
