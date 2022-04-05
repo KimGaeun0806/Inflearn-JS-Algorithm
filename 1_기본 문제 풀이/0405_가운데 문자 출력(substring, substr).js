@@ -21,6 +21,7 @@ function solution(s) {
   else answer = s.substring(mid - 1, mid + 1);
   // else answer = s.substr(mid - 1, 2);
   return answer;
+
   // substring() 메서드는 string 객체의 시작 인덱스로부터 종료 인덱스 전까지 문자열의 부분 문자열 반환
   // str.substring(indesStart[, indexEnd]) -> indexStart는 반환문자열의 시작 인덱스, indexEnd(옵션)는 반환문자열의 마지막 인덱스(포함 x)
 
