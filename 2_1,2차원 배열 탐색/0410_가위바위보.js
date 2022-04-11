@@ -22,4 +22,3 @@ function solution2(a, b) {
 }
 
 console.log(solution([2, 3, 3, 1, 3], [1, 1, 2, 2, 3]));
-console.log(solution2([2, 3, 3, 1, 3], [1, 1, 2, 2, 3]));
