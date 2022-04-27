@@ -1,4 +1,4 @@
-// 37. 연속 부분수열1 (Two Pointers Algorithm)
+// 37. 연속 부분수열1(Two Pointers Algorithm)
 
 // 내 풀이
 function solution(n, m, arr) {
