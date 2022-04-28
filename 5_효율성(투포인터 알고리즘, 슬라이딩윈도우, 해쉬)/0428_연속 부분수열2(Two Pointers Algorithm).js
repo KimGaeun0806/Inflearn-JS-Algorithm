@@ -30,4 +30,4 @@ function solution2(n, m, arr) {
   return answer;
 }
 
-console.log(solution2(5, 5, [1, 3, 1, 2, 3]));
+console.log(solution(5, 5, [1, 3, 1, 2, 3]));
