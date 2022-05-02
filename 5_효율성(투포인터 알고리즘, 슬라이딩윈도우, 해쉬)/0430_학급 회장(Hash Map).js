@@ -8,7 +8,7 @@ function solution(arr) {
 }
 
 // 문제풀이
-function solutoin2(arr) {
+function solution2(arr) {
   let answer;
   let sH = new Map();
   for (let x of arr) {
