@@ -10,7 +10,7 @@ function solution(arr) {
   return Math.max(...numArr);
 }
 
-// 내 풀이2
+// 문제풀이
 function solution2(arr) {
   let answer = Number.MIN_SAFE_INTEGER;
   let T_line = [];
